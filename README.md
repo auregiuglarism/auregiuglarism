@@ -14,7 +14,7 @@ Success Made Easy is a brand I created online with the goal of inspiring & helpi
 - Weekly business tips, life hacks on [Instagram](https://bit.ly/3VPCOUU)
 - A soon to be released weekly (free) newsletter for those wanting to get tips straight in their emails
 
-At the moment you can contact me for any purposes related to Success Made Easy at aureliengm.contactpro@gmail.com.
+You can contact me for any purposes related to Success Made Easy at aureliengm.contactpro@gmail.com.
 
 ### 📌Tools
 I've already used a bit:
