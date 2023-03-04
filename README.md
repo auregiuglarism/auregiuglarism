@@ -11,8 +11,8 @@ You can contact me professionally speaking at aureliengm.contactpro@gmail.com.
 
 Success Made Easy is a brand I created online with the goal of inspiring & helping motivated people, you can discover it through:
 - Amazing stories and mini-movies about successful businesses and entrepreneurs on [Youtube](https://bit.ly/3HtyPIJ)
-- Weekly business tips, life hacks on [Instagram](https://bit.ly/3VPCOUU)
-- A soon to be released weekly (free) newsletter for those wanting to get tips straight in their emails
+- Weekly, short, sometimes funny business & entrepreneurs stories on [Instagram](https://bit.ly/3VPCOUU)
+- A soon to be released weekly (free) newsletter for those wanting to get inspiring stories straight in their emails
 
 You can contact me for any purposes related to Success Made Easy at aureliengm.contactpro@gmail.com.
 
