@@ -22,7 +22,7 @@ I've already used a bit:
 - Java
 - Matlab
 - Git & Github Desktop
-- Gradle
+- Gradle Environment for Java
 - MySQL
 - Excel
 
