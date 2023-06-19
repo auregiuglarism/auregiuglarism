@@ -10,9 +10,9 @@ You can contact me professionally speaking at aureliengm.contactpro@gmail.com.
 <img src="https://user-images.githubusercontent.com/99983203/216634409-fa2cec05-745c-42f6-9912-dab0c8e63c45.png" alt="Success Made Easy" width="100" height="100"/>
 
 Success Made Easy is a brand I created online with the goal of inspiring & helping motivated people, you can discover it through:
-- Amazing stories and mini-movies about successful businesses and entrepreneurs on [Youtube](https://bit.ly/3HtyPIJ)
+- Amazing stories and mini-movies about successful businesses, entrepreneurs and controversies on [Youtube](https://bit.ly/3HtyPIJ)
 - Weekly, short, sometimes funny business & entrepreneurs stories on [Instagram](https://bit.ly/3VPCOUU) and [Tiktok](https://bit.ly/3Jxwrmt)
-- A soon to be released weekly (free) newsletter for those wanting to get inspiring stories straight in their emails
+- A weekly (free) newsletter for those wanting to get inspiring stories straight in their [emails](https://successmadeasy.substack.com/?r=2ihn0r&utm_campaign=pub-share-checklist), hosted on Substack 
 
 You can contact me for any purposes related to Success Made Easy at aureliengm.contactpro@gmail.com.
 
