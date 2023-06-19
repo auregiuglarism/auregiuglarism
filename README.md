@@ -4,7 +4,7 @@ You can connect with me on [Instagram](https://www.instagram.com/auregiuglarism/
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=auregiuglarism)
 
-You can contact me professionally speaking at aureliengm.contactpro@gmail.com.
+You can contact me professionally speaking at aurelien.giuglarism@gmail.com
 
 ### 📌Success Made Easy 
 <img src="https://user-images.githubusercontent.com/99983203/216634409-fa2cec05-745c-42f6-9912-dab0c8e63c45.png" alt="Success Made Easy" width="100" height="100"/>
