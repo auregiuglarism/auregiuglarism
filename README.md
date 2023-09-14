@@ -20,7 +20,7 @@ You can contact me for any purposes related to Success Made Easy at aureliengm.c
 With 2+ years of experience in the DaVinci Resolve editing software and a rough skill set in Blender and Adobe Photoshop, I've launched my online video editing service on Fiverr. If you need professional and industry-level video editing, I invite to click [here](https://www.fiverr.com/s/G3XgE2).
 
 ### 📌Tools
-I've developed rough skills with
+I've developed rough skills with :
 - Python (multiple libraries : numpy, pandas, and many others)
 - Java
 - Matlab
