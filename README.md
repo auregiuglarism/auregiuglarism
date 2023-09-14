@@ -16,8 +16,8 @@ Success Made Easy is a brand I created online with the goal of inspiring & helpi
 
 You can contact me for any purposes related to Success Made Easy at aureliengm.contactpro@gmail.com.
 
-### 📌Freelancing Video Editing Service
-With 2+ years of experience in the DaVinci Resolve editing software and a rough skill set in Blender and Adobe Photoshop, I've launched my online video editing service on Fiverr. If you need professional and industry-level video editing, I invite to click [here](https://www.fiverr.com/s/G3XgE2)
+### 📌Freelancing Online Video Editing Service
+With 2+ years of experience in the DaVinci Resolve editing software and a rough skill set in Blender and Adobe Photoshop, I've launched my online video editing service on Fiverr. If you need professional and industry-level video editing, I invite to click [here](https://www.fiverr.com/s/G3XgE2).
 
 ### 📌Tools
 I've developed rough skills with
