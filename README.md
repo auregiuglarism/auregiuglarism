@@ -18,11 +18,11 @@ You can contact me for any purposes related to Success Made Easy at aureliengm.c
 
 ### 📌Tools
 I've developed rough skills with :
-- Python, Java (general coding and machine learning applications, plotting)
+- Python, Java (General coding and machine learning applications, plotting)
 - Matlab (Simulations, experiments and plotting)
-- C (Fictional Client-Server Interface and Parallel Programming with OpenMP, MPI)
+- C (Fictional client-server interface and parallel programming with OpenMP, MPI)
 - Git & Github Desktop
-- MySQL (with and without python for database Management)
+- MySQL (With and without Python for database management)
 
 
 
