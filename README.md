@@ -10,7 +10,7 @@ You can contact me professionally speaking at aurelien.giuglarism@gmail.com
 I'm developing/trained with Windows, VS Code, Git, Github Desktop
 
 I've developed rough skills with :
-- Python, Java (Coding, data science and machine learning applications)
+- Python, Java, JavaScript (Coding, data science and machine learning applications)
 - Matlab (Simulations, experiments and plotting)
 - C (Fictional client-server interface and parallel programming with OpenMP, MPI)
 - MySQL (With and without Python for database management)
