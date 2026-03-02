@@ -2,7 +2,7 @@
 I'm currently a Master student learning Innovation and Entrepreneurship at ESMT Berlin.  
 You can connect with me on [Instagram](https://www.instagram.com/auregiuglarism/) and [LinkedIn](https://www.linkedin.com/in/aurelien-giuglaris-michael-48703b241).
 
-![GitHub Stats](![GitHub Streak](https://streak-stats.demolab.com?user=auregiuglarism&theme=tokyonight))
+![GitHub Streak](https://streak-stats.demolab.com?user=auregiuglarism&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF)
 
 You can contact me professionally speaking at aurelien.giuglarism@gmail.com
 
